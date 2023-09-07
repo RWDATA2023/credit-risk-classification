@@ -1,5 +1,7 @@
 Credit Risk Classification: A Comprehensive Guide
-Introduction
+
+Introduction:
+
 What is Credit Risk?
 Credit risk is the possibility of a loss resulting from a borrower's failure to repay a loan or meet contractual obligations. Financial institutions, such as banks and lending companies, face this risk and must manage it effectively to ensure profitability.
 
