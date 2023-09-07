@@ -3,13 +3,14 @@ Credit Risk Classification: A Comprehensive Guide
 Introduction:
 
 What is Credit Risk?
+
 Credit risk is the possibility of a loss resulting from a borrower's failure to repay a loan or meet contractual obligations. Financial institutions, such as banks and lending companies, face this risk and must manage it effectively to ensure profitability.
 
-Objective of This Project
+Objective of This Project:
+
 The goal of this project is to build a machine learning model that can predict the likelihood of a borrower defaulting on a loan. We use logistic regression algorithms and data from a peer-to-peer lending service to train our model.
 
 Getting Started-
-
 Prerequisites:
 
 Python 3.x
@@ -26,8 +27,8 @@ To install the necessary libraries, you can run the following command:
 pip install numpy pandas scikit-learn imbalanced-learn
 ```
 
-Data Analysis and Model Building
-Data Preparation
+Data Analysis and Model Building-
+Data Preparation:
 We start by importing a dataset of historical lending activity and preparing it for analysis. This involves:
 
 Reading the data into a Pandas DataFrame
