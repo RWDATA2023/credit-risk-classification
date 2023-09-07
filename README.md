@@ -8,8 +8,10 @@ Credit risk is the possibility of a loss resulting from a borrower's failure to 
 Objective of This Project
 The goal of this project is to build a machine learning model that can predict the likelihood of a borrower defaulting on a loan. We use logistic regression algorithms and data from a peer-to-peer lending service to train our model.
 
-Getting Started
-Prerequisites
+Getting Started-
+
+Prerequisites:
+
 Python 3.x
 Jupyter Notebook
 Libraries Used:
